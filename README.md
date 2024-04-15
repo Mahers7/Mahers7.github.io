@@ -7,4 +7,4 @@ Doing my master degree in Prof.Mike Fainzleber lab, studying the signaling pathw
 I'am specificly intersted on the local transletion in axons and the envolvment of the N-terminal domain of the eIF5B protein in this.
 
 
-
+![](/neuron.ipj)
