@@ -1,6 +1,6 @@
 # Welcom to my github homepage.
 
-     ![](/neuron.jpg)
+![](/neuron.jpg)
 
  My name is Maher Salhab I'm a second year master student in  the weizmann institute.
  
