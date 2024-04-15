@@ -6,6 +6,5 @@
 I'am specificly Want to understand the local translation in axons in both conditions normal and injury and to reveal the role of the N-terminal domain of the eIF5B protein in this process.
 
 
-![](/neuron.jpg) 
-![](/local.png) 
+![](/neuron.jpg) ![](/local.png) 
 
