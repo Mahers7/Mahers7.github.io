@@ -24,5 +24,10 @@ I'am specificly Want to understand the local translation in axons in both condit
 
    Here is some other students Github pages!
   [Sameeha Mittwali](https://sameeham.github.io/)
+
+
+  To know more about our python course  you can cheak [here!](https://erez.weizmann.ac.il/apx/f?p=186:30:::NO::pid,pprev:14800,14473), and the course repository you can find [here!](https://github.com/szabgab/wis-python-course-2024-04?tab=readme-ov-file)
+
+  My repository for the assignments you can find [here](https://github.com/Mahers7/Python_assignments)
    
 
