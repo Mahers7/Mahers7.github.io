@@ -1,7 +1,10 @@
 # Welcom to my github homepage.
-
-# This is me :)
 ![](/Maher.jpg)
+
+
+
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -17,7 +20,9 @@ I'am specificly Want to understand the local translation in axons in both condit
   
    ![](/local.png) 
 
-   # Here is some other students Github pages!
-   [Sameeha Mittwali](https://sameeham.github.io/)
+
+
+   Here is some other students Github pages!
+  [Sameeha Mittwali](https://sameeham.github.io/)
    
 
